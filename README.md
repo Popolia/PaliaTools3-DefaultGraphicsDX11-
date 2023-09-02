@@ -13,6 +13,8 @@ DefaultGraphicsRHI=DefaultGraphicsRHI_DX11
 so the file with the modification is him ![Capture d’écran 2023-09-01 215750](https://github.com/Popolia/PaliaTools3/assets/69745473/a787ccce-d13f-4a4a-9c88-138a445c47ae)
 the file I'm supplying has already gone through the procedure, you just need to replace it the file (this is to explain the basic process)
 
+(Thanks Havoc for this one!) 
+
 C:\Users\Admin\AppData\Local\Palia\Saved\Config\WindowsClient,
 
 how do I go to appdata?
