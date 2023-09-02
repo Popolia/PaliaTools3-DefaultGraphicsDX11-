@@ -13,3 +13,18 @@ DefaultGraphicsRHI=DefaultGraphicsRHI_DX11
 so the file with the modification is him ![Capture d’écran 2023-09-01 215750](https://github.com/Popolia/PaliaTools3/assets/69745473/a787ccce-d13f-4a4a-9c88-138a445c47ae)
 the file I'm supplying has already gone through the procedure, you just need to replace it the file (this is to explain the basic process)
 C:\Users\Admin\AppData\Local\Palia\Saved\Config\WindowsClient,
+
+how do I go to appdata?
+
+Window + r => %localappdata%
+
+ps:"Help! I have a Super Ultrawide monitor or a nonstandard resolution."
+
+"Go to the installation directory and then Saved\Config\Windows Client. 
+By deafult, this will be %localappdata%\Palia\Saved\Config\WindowsClient 
+Open the engine.ini file in notepad. 
+Add this as a new line at the bottom of the file and then save changes. 
+
+[/script/engine.localplayer] AspectRatioAxisConstraint=AspectRatio_MaintainYFOV
+
+Relaunch the game. Thank you to Mazimba for this one!"
