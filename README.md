@@ -24,6 +24,7 @@ ps:"Help! I have a Super Ultrawide monitor or a nonstandard resolution."
 "Go to the installation directory and then Saved\Config\Windows Client. 
 By deafult, this will be %localappdata%\Palia\Saved\Config\WindowsClient 
 Open the engine.ini file in notepad. 
+
 Add this as a new line at the bottom of the file and then save changes. 
 
 [/script/engine.localplayer] AspectRatioAxisConstraint=AspectRatio_MaintainYFOV
