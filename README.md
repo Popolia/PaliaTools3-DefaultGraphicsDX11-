@@ -1,4 +1,5 @@
 # PaliaTools3
+https://docs.google.com/spreadsheets/d/1wLaDUnI7XbQbtXkFrMfZuZs6eyoRdwUZbiis8KIs7M0/edit#gid=0
 Fatal error: [File:Unknown] [Line: 868] Output->GetDisplayModeList(Format, 0, &NumModes, ModeList) failed at D:\shared\Palia\Palia-Release_0.167.0\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12Device.cpp:1656 with error E_INVALIDARG
 
 directx 11 will set you free
